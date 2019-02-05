@@ -9,7 +9,7 @@ description = {
    summary = "Torch CUDA Implementation",
    detailed = [[
    ]],
-   homepage = "https://github.com/torch/cutorch",
+   homepage = "https://github.com/lokesh-007/cutorch",
    license = "BSD"
 }
 
